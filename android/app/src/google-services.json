@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221766243803",
+    "project_id": "lab3-d019c",
+    "storage_bucket": "lab3-d019c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221766243803:android:532951c2ff0ea69e6643fe",
+        "android_client_info": {
+          "package_name": "com.facebook.react.rootproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmSjxa-y1N6Nd6LtGUYUvM8vRxBBlgEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
